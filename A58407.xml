@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gard'ners kalendar shewing the most seasonable times for performing his hortulan affairs monthly throughout the year, and a catalogue of such dishes and drinks as a compleat garden can afford in their seasons : published for the climate of Scotland / by John Reid.</title>
+            <author>Reid, John, Gardener.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58407</idno>
+            <idno type="STC">Wing R763</idno>
+            <idno type="STC">ESTC R22175</idno>
+            <idno type="EEBO-CITATION">09722117</idno>
+            <idno type="OCLC">ocm 09722117</idno>
+            <idno type="VID">44042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44042)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gard'ners kalendar shewing the most seasonable times for performing his hortulan affairs monthly throughout the year, and a catalogue of such dishes and drinks as a compleat garden can afford in their seasons : published for the climate of Scotland / by John Reid.</title>
+                  <author>Reid, John, Gardener.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by David Lindsay,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gardening --  Scotland.</term>
+               <term>Gardening --  Calendars.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44042:1"/>
+            <p>THE GARD'NERS KALENDAR <hi>Shewing</hi> The moſt ſeaſonable times for performing his <hi>HORT<g ref="char:V">Ʋ</g>LAN AFFAIRS,</hi> Monthly throughout the Year: AND <hi>A Catalogue of ſuch diſhes and drinks as a compleat Garden can afford in their ſeaſons.</hi>
+            </p>
+            <p>Publiſhed for the Climate of SCOTLAND By JOHN REID <hi>Gard'ner.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by DAVID LINDSAY, at the foot of <hi>Heriot's</hi>-Bridge, 1683.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44042:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>AS in this little <hi>Kalendar</hi> thou will find when; ſo in my Book (Intituled the <hi>Scots-Gard'ner</hi>) thou will find how, to performe the particulars.</p>
+            <p>The Gard'ners year is a circle as their labour, never at an end. Nevertheleſs their terme is <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="agricultural_treatise">
+            <pb n="3" facs="tcp:44042:2"/>
+            <div type="month">
+               <head>NOVEMBER.</head>
+               <p>COntrive or forecaſt where, and what you are to ſow and plant. Trench and fallow all your vacant grounds. Prepare and mix ſoils and compoſts throughly: miſs not high-way Earth, cleanſings of ſtreets; make compoſitions of dungs, ſoils, and lyme.</p>
+               <p>Lay bair Roots of Trees that need, and dung ſuch as require it. Plant all fruit Trees, Forreſt-trees, and ſhrubs that loſe the leaf, alſo prune ſuch. Plant cabbage. Sow haſties for early peas in warme grounds but truſt not to them.</p>
+               <p>Gather the ſeeds of holly, yew, aſh, &amp;c. Ordering them as in Chap: 3. furniſh your nurſeries with ſtocks.</p>
+               <p>Shelter tender evergreen ſeedlings. Houſe your Cabbag, Carrots, Turneeps: and any time e're hard froſts your Skirrets, Potatoes, Parſneeps, &amp;c. Cover Aſparagus, Artichocks, as in the laſt moneth. Sow bairs-ears, plant Tulips, &amp;c. Shut the conſervato<g ref="char:EOLhyphen"/>ry. Preſerve your Choiceſt Flowers. Sweep and cleanſe the walks of leaves, &amp;c. Stop your bees cloſe ſo that you leave breathing vents.</p>
+               <div type="part">
+                  <head>Garden Diſhes and Drinks in Seaſon, are</head>
+                  <p>Cabbage, Coleflower, Onions, Leeks, Shallot, &amp;c. Blanched Sellery, Succory, Pickled Aſparagus, Purſlain, &amp;c. Freſh Par<g ref="char:EOLhyphen"/>ſneeps, Skirrets, Potatoes, Carrots, Turneeps, Beet-rave, Scorzonera, parſly and fennell Roots.</p>
+                  <p>Aples, Pears, &amp;c.</p>
+                  <p>Cyder, Perry, wine of Cherries, Raſps, Currans, Goosber<g ref="char:EOLhyphen"/>ries, Liquoriſh, Hony, &amp;c.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="4" facs="tcp:44042:3"/>
+               <head>DECEMB<hi rend="sup">r</hi>.</head>
+               <p>TRench and prepare grounds. Gather together compoſts plant Trees in nuſeries. and ſow their ſeeds that can Endure it.</p>
+               <p>Gather Firr ſeed, holly berries, &amp;c. Take up liquoriſh. Conti<g ref="char:EOLhyphen"/>nue your care in preſerving choice Carnations, Anemonies, and Ranunculuſes from Raines and froſts. And keep the green-houſe cloſe againſt the piercing colds. Turne and refreſh your fruit in a clear and ſerene day. Sharpen and mend tools. Gather oziers and haſſell Rods and make baskets in ſtormy weather. Cover your water pipes with leitter leſt the froſts do crak them, feed weak bees.</p>
+               <div type="part">
+                  <head>Garden Diſhes and Drinks in ſeaſon.</head>
+                  <p>Colworts, Leeks, &amp;c. Houſed Cabbage, Onions, ſhallot. Se<g ref="char:EOLhyphen"/>veral dryed ſweet herbes. Houſed Parſneeps. Turneeps, Skir<g ref="char:EOLhyphen"/>rets, Carrots, Potatoes, Beat-rave, Scorzonera, parſly, Fennel Roots. Pickled Cucumbers, Barberries, Artichocks, Aſparagus, Purſlain, &amp;c.</p>
+                  <p>Houſed Aples, Pears. Conſerved Cherries, Plumes, Peaches, Apricocks, &amp;c.</p>
+                  <p>Wine of Aples, Pears, Cherries, Liquoriſh, Hony, &amp;c.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="5" facs="tcp:44042:3"/>
+               <head>JANUARY.</head>
+               <p>PRepare the ground, ſoils and manures. Fell trees for mechani<g ref="char:EOLhyphen"/>cal uſes. Prune Firrs, plant Hawthorn Hedges, and all Trees and Shrubs that loſe the leaf weather open. Alſo prune the more hardy and old planted. Dung the Roots of Trees that need, drain<g ref="char:EOLhyphen"/>ing exceſſive moiſture, gather Graffs e're they ſprout, and near the end Graff; begin with the Stone Fruits. Gather Holly-berries, Firr huſks, &amp;c. Secure choice plants as yet from cold and wet, and earth up ſuch as the froſts uncovered.</p>
+               <p>Feed weak bees, alſo you may remove them.</p>
+               <div type="part">
+                  <head>Garden Diſhes and Drinks in ſeaſon.</head>
+                  <p>Coleworts, Leeks, &amp;c. Dry ſweet Herbes. Houſed Cab<g ref="char:EOLhyphen"/>bage, Onions, Shallot<g ref="char:punc">▪</g> Parſneeps, Skirrets, Potatoes Car<g ref="char:EOLhyphen"/>rots, Turneeps, Beat-rave, Scorzonera, Parſly and Fennel Roots in broth.</p>
+                  <p>Pickled Artichocks, Beet-raves, &amp;c. Houſed Aples, Pears, and other conſerved Fruits.</p>
+                  <p>With Cyder and other Wines as before.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="6" facs="tcp:44042:4"/>
+               <head>FEBRUARY.</head>
+               <p>PLant any Trees or Shrubs that loſe the leaf, alſo lay and cir<g ref="char:EOLhyphen"/>cumpoſe ſuch for increaſs, ſee <hi>June.</hi> Likewayes ſow all your Seeds, Kyes, Kirnells, Nuts, Stones; alſo the ſeeds of ſeveral Greens, as Holly, Yew, Philyrea, Laurells, &amp;c. Prune Firts, &amp;c.</p>
+               <p>Continue to deſtroy Vermine.</p>
+               <p>Graffing is now in ſeaſon, ſee the laſt moneth.</p>
+               <p>Prune all Trees and Shrubs except tender Greens. Nail and dreſs them at the wall. Cover the Roots of Trees layed bair the fore-end of Winter, if any be. Plant Hawthorn Hedges, Willows, &amp;c.</p>
+               <p>Plant Liquoriſh, Potatoes, Peas, Beans, Cabbage. Sow Parſly, Beets, Spinage, Marygold, and other hardy Pot-herbes.</p>
+               <p>Let carnations and ſuch ſheltered Flowers get Air in mild wea<g ref="char:EOLhyphen"/>ther. But keep cloſe the Green-houſe.</p>
+               <p>N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w you may remove bees and feed weak ſtocks.</p>
+               <div type="part">
+                  <head>Garden Diſhes and drinks in ſeaſon.</head>
+                  <p>Cole, Leiks, ſweet Herbes. Onions, Shallot, houſed Cab<g ref="char:EOLhyphen"/>bage, Skirrets, Turneeps, Parſneeps, Potatoes, Beat-rave, Scorzonera, Carrots, beſides Parſly and Fennell Roots.</p>
+                  <p>Pickled Beat-rave, Artichock. Cucum: Houſed Aples, Pears, and other conſerved Fruits with Cyder and other Wines and drinks, as above.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="7" facs="tcp:44042:4"/>
+               <head>MARCH.</head>
+               <p>REdelve, mix, and Rake your ground for Immediat uſe. Delve about the Roots of all your Trees. Yet plant Trees and rather greens. Alſo prun ſuch except the Roſinious. Propagate by laying circumpoſition, and eſpecially by cuttings. Sow the ſeeds of moſt Trees and hardy greens. Cover theſe Trees whoſe Roots lay bair, and delve doun the dungs that lay about your young Trees all winter, covering on leitter again topt with Earth to prevent drought in ſummer: this is a material obſervation and more eſpecially for ſuch as are late planted. Slit the bark of ill thriving Trees. Fell ſuch as grow croked in the nurſerie. Graffing is yet in ſeaſon, (but too late for ſtone fruit) cut off the heads of them Inoculated.</p>
+               <p>Set peas, beans, Cabbage, Aſparagus, Liquoriſh. Sow parſly, beets, Endive, Succory, Bugloſs, Burrage, Sellery, Fe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ell, Marigold. Plant ſhollot, garleeks, Potatoes, Skirrets. Sow Onions, Lettice, Creſſes, Parſneep, Beet-rave, Radiſh, &amp;c, And on the hotbed coleflour, and if you pleaſe cucumber, &amp;c.</p>
+               <p>Slip and ſet phyſick herbes, <hi>July</hi>-flowers, and other fibrous Rooted flowers. Be carefull of the tender, the peircing colds are now on foot. Turne your fruit in the Room but open not yet the win<g ref="char:EOLhyphen"/>dows.</p>
+               <p>Catch Moles, Mice, Snails, Worms, deſtroy frogs ſpawn, &amp;c.</p>
+               <p>Half open paſſages for bees, they begin to fit, keep them clo<g ref="char:EOLhyphen"/>ſe night and moring: yet you may remove them.</p>
+               <div type="part">
+                  <head>Garden Diſhes and Drinks in ſeaſon.</head>
+                  <p>Both green and houſed herbes and Roots: alſo Pickled, Houſed, and conſerved fruits: with their wines as in the former months.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="8" facs="tcp:44042:5"/>
+               <head>APRILE.</head>
+               <p>PLant Holly Hedges and Hawthorn too if not too foreward. Ply and ſheer Hedges. Nail and prun Wall-trees, &amp;c. Sow and plant firrs, and other greens. Slip and ſet ſage, Roſemary, thym, Rue, Savory, and all fibrous Rooted herbes and Flowers. uncover and dreſs ſtrawberries. Plant Artichocks, ſlip them and delve their plottes. Set Cabbage, Beans, Peas, Kidnees. ſow Aſparagus, Parſly, Beets, and Beet-card. Set Garleeks, Shal<g ref="char:EOLhyphen"/>lot, Potatoes, Skirrets, Sorral. ſow Onions, Leeks, Lettice, Creſſes, Radiſh, Orach, Scorzonera, Carvy, Fennel, &amp;c. And on the hotbed Cucumbers, Coleflowers, Purſlain, ſweet Marjorum, Baſill, Summer Savory, Tobaco, &amp;c.</p>
+               <p>Set Strawberries, Violets, July-flowers, &amp;c. Alſo ſow the ſeeds of july flowers. &amp;c. Sow all your Annuall flowers and Rare plants ſome requiring the hotbed. Deſtroy Moles, Mice Worms, Snails. Lay, Beat, and Roll gravel and graſs. Fall to your mowing and weeding.</p>
+               <p>Open the Doors off your bee-hives now they hatch.</p>
+               <div type="part">
+                  <head>Garden Diſhes and Drinks in ſeaſon.</head>
+                  <p>Onions, Leeks, Colworts, Beets, Parſly, and other herbes: Spinage, Sorral. Scorzonera, green Aſparagus, Lettice and other Sallads. Pickled Artichocks, Beet-rave, Barberries, Cucumbers.</p>
+                  <p>Houſed Aples and Pears, Conſerved Cherries, Plumes, Peaches, Apricocks, Goosberries, Currans. Alſo the wines of Aples, Pears, Cherries, Liquoriſh, Hony, &amp;c.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="9" facs="tcp:44042:5"/>
+               <head>MAY.</head>
+               <p>PUll up ſuckers and haw about the Trees. Rub off unneceſſary buds. Sheer or clip Hedges. Prun tender Greens, (Not the Rofinious) bring furth the houſed ones refreſhing &amp; trimming them. Plant all ſorts of medicinal Herbes. Sow all ſweet ones which are tender.</p>
+               <p>Gather Snails, Wormes, catch Moles.</p>
+               <p>Sow Letice, Creſſes, Purſlain, Turneep, Radiſh, Peas, &amp;c. Continue weeding and watering.</p>
+               <p>Near the end watch the Bees ready to ſwarm.</p>
+               <div type="part">
+                  <head>Garden Diſhes and drinks in ſeaſon.</head>
+                  <p>Coleworts and other Herbes, (being eaten with contentement is better than a fatted Ox without it) ſage (with Butter,) Leeks, Parſly, Thyme, Marjorum, ſorrall, Spinage, &amp;c. Scorzonera, Aſpa<g ref="char:EOLhyphen"/>ragus, Letice, Purſlain, and other Sallades and Pot-herbes.</p>
+                  <p>Pickled Artichocks, Barberries, Beet-rave, Cucumbers, hou<g ref="char:EOLhyphen"/>ſed Aples and Pears for many uſes. Early Cherries, Straw-ber<g ref="char:EOLhyphen"/>ries, near the end.</p>
+                  <p>Cyder, Metheglin, Liquoriſh Ail, &amp;c.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="10" facs="tcp:44042:6"/>
+               <head>JUNE.</head>
+               <p>CLeanſe about the Roots of Trees, Suckers and weeds, water their Covered Bulks: eſpecially the new planted.</p>
+               <p>Fell the long ſmall ill-train'd Forreſt-trees in the nurſerie within half foot of the ground. Unbind graffs. Prun all Wall and Stan<g ref="char:EOLhyphen"/>dard Trees. Towards the end you may Inoculat. And Increaſe by circumpoſition.</p>
+               <p>Gather Elm ſeed and ſow Immediatly.</p>
+               <p>Tranſplant Coleflowers, Coleworts, Beets, Leeks, Purſlain, &amp;c. In moiſt weather; at leaſt water firſt the ground if dry.</p>
+               <p>Sow Peas, Radiſh, Turneep, Letice, Chervil, Creſſes, &amp;c. Deſtroy Snails, Worms, &amp;c.</p>
+               <p>Begin to lay carnations or July-flowers: ſhade, ſupport and Prun ſuch as will blow. Water pots and thriſty plants. Weeding and mowing is in ſeaſon, and ſo is diſtillation.</p>
+               <p>Bees now Swarm, look diligently to them.</p>
+               <div type="part">
+                  <head>Garden Diſhes and Drinks in ſeaſon.</head>
+                  <p>Cole, Beets, Parſly, Sorrall and other Pot-herbes. Purſlain, Letice, and other Sallads. Radiſh, Scorzonera, Aſparagus. Green Peas and Artichocks. Green Goosberries. Ripe cherries, Ralps, Currans, Straw-berries.</p>
+                  <p>Houſed Aples and Pears.</p>
+                  <p>Cyder, Metheglin, &amp;c.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="11" facs="tcp:44042:6"/>
+               <head>JULY.</head>
+               <p>FAllow ground as ſoon as the crop comes off. Prune and purge all Standard-trees. Ply, Nail, Prune, and dreſs your Wal-trees. Pull up ſuckers and weeds. Haw and Water where need<g ref="char:EOLhyphen"/>ful. Inoculat Fruit-trees, Shrubs, rare Greens, Flower-trees; Increaſe the ſame by laying. Clip your Hedges after Rain. Suffer ſuch Herbes and Flowers to run to ſeed as you would ſave: Cut<g ref="char:EOLhyphen"/>ting the reſt a handful from the ground.</p>
+               <p>Sow Turneep, Radiſh, Lettice, Onion, Cole-flower, Cab<g ref="char:EOLhyphen"/>bage, and Coleworts in the full Moon. Near the end ſow Beets, Spinage, &amp;c. You may plant Strawberries, Violets, Camomile. Lay July-flowers. Plant their ſeedlings. Slip and ſet Hypaticas, Bears-ears, Couſlips, Helibors, &amp;c. Take up Bulbo and Tube<g ref="char:EOLhyphen"/>rous ones that are dry in their ſtalks (if you mind to change their places) and keep till <hi>September,</hi> but ſome would be ſet imme<g ref="char:EOLhyphen"/>diatly.</p>
+               <p>Supply voids with potted Annualls. Lay Graſs and Gravell. Make Cherrie and Rasberrie Wine, &amp;c.</p>
+               <p>Prevent the Bees latter ſwarmes, Kill Drons, W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſps, &amp;c.</p>
+               <div type="part">
+                  <head>Garden Diſhes and drinks in ſeaſon.</head>
+                  <p>Beets and many Pot-herbes and Sweet-herbes.</p>
+                  <p>Beet-card, Purſlain, Lettice, Endive, &amp;c.</p>
+                  <p>Cabbage, Cole-flower, Scorzonera, Beetrave, Carrot, Ra<g ref="char:EOLhyphen"/>diſh, Turneep, Peas, Beens, and Kidnees, Artichocks, Straw<g ref="char:EOLhyphen"/>berries, Raſps, Currans, Goosbeeries, Cherries, Plumes, ſummer Pears and Aples, Cyder, Metheglin and other Wines.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="12" facs="tcp:44042:7"/>
+               <head>AUGUST.</head>
+               <p>FAllow bordures, Beds, Nurſeries, and the bulks of Trees. Yet Inoculat. Ply and purge Trees. Pull up ſuckers and weeds. Clip Hedges. Gather the Black-cherrie and Morella Stones. Gather Mezerion berries. Gather the ſeeds of moſt Herbes and Flowers. Cut your Phyſick-herbes. In the begin<g ref="char:EOLhyphen"/>ning ſow Cabbage (thô I confeſs its too late. See the laſt moneth) Beets and Beet-card, Spinage, Black-radiſh, Chervil, Letice, Corn-ſallade, Endive, Scorzonera, Carvy, Marygold, Angeli<g ref="char:EOLhyphen"/>ca, Scurvy-graſs, &amp;c. Take up ripe Onions, Garleeks and Shallot, Unbind buds Inoculated. Cut and ſtring Strawberries. Lay July-flowers. Sow Columbines, Holyhoks, Larks-heells, Candytuffs, Popies, and ſuch as can endure Winter.</p>
+               <p>Take up your bulbs and plant as in the laſt. Sift the ground for Tulips and Gladiolus. Plunge in potted Annualls in Vacants. Keep down weeds by hawing, &amp;c. Lay Graſs and Gravel, Beat, Roll, and mow well. Make Goosberrie and Curran Wines, &amp;c.</p>
+               <p>Towards the end take Bees, take the lighteſt firſt; thoſe who are near heaths may differ a little. Deſtroy Waſps, ſtraiten the paſſage by putting on the hecks to ſecure from Robers.</p>
+               <div type="part">
+                  <head>Garden Diſhes and drinks in ſeaſon.</head>
+                  <p>Many Pot-herbes and Sallades, Cabbage, Coleflower, Beet<g ref="char:EOLhyphen"/>card, Turneep, Radiſh, Carrot, Beet-rave, Scorzonera, Peas, Beans, and Kidnees, Artichocks, Cucumbers, Aples, Pears, Plumes, Apricocks, Geens, Goosberries, Currans, Raſps, Strawberries, &amp;c.</p>
+                  <p>Cyder, Metheglin, Cherrie Wine, Curran Wine, Goosberrie Wine, Raſpberrie Wine, &amp;c.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="13" facs="tcp:44042:7"/>
+               <head>SEPTEMB<hi rend="sup">r</hi>.</head>
+               <p>FAllow, Trench, and level ground. Prepare pits and bordures for Trees. Gather plan ſeed, Almond, Peach, and white Plum Stones. Gather ripe Fruits. Plant furth Cabbage. Re<g ref="char:EOLhyphen"/>move bulbs and plant them. Refreſh, Trame, and Houſe your tender Greens. Refreſh and trim pots and caſes with July-flowers and other fine Flowers and plants, Carrying them to pits, ſhelter, and covert, giving them Air, &amp;c.</p>
+               <p>Towards the end gather Safron.</p>
+               <p>Make Cyder, Perry, and other Wines, &amp;c.</p>
+               <p>Straiten the entrance to Bee-hives, deſtroy Waſps, &amp;c.</p>
+               <p>Alſo you may now remove Bees.</p>
+               <div type="part">
+                  <head>Garden Diſhes and drinks in ſeaſon.</head>
+                  <p>Varieties of Pot-herbes and Sallades, Cabbage, Cole-flower, Peas, Beans, and Kidnees, Artichocks, Beet-card, Beet-rave, Scorzonera, Carrots, Turneeps, Radiſh, Cucumbers, Aples, Pears, Apricocks, Peaches, Nectarines, Quince, Grapes, Bar<g ref="char:EOLhyphen"/>berries, Filbeards.</p>
+                  <p>Cyder, Liquoriſh Ail, Metheglin, and Wine of Cherries, Raſps, Gooſberries, Currans, &amp;c.</p>
+               </div>
+            </div>
+            <div type="month">
+               <pb n="14" facs="tcp:44042:8"/>
+               <head>OCTOBER.</head>
+               <p>GAther Winter Fruits. Trench and fallow grounds (raixing with proper ſoil) to ly over the Winter. Prepare dungs and mannures, mixing and laying them in heaps bottom'd and covered with Earth. Plant Hawthorn Hedges, And all Trees that loſe their leaves; Alſo lay their branches. Prun Roſes. Gather ſeeds of Haſſell, Hawthorn, Plan, Aſh, Beach, Oak, Aple, Pear, &amp;c. Cut Strawberries, Artichocks, Aſparagus, covering their beds with dung and Aſhes. Earth up Winter Sallades, Herbes, and Flowers, a little. Plant Cabbage, &amp;c. Plant Tulips Ane<g ref="char:EOLhyphen"/>monies, and other Bulbs. Sow the ſeed of Bairs-ears, Cowſlips, Tulips, &amp;c. Bear and Roll Gravel and Graſs. Finiſh your laſt weeding and mowing. Lay bair leopered Tree Roots and remove what harms them: alſo delve and dung ſuch as require it. Drain exceſſive moiſture wherever it be. Pickle and conſerve Fruits. Make Perry and Cyder.</p>
+               <p>You may now ſafely remove Bees.</p>
+               <div type="part">
+                  <head>Garden Diſhes and drinks in ſeaſon.</head>
+                  <p>Coleworts, Leeks, Cabbage, Cole-flowers, Onions, Shallot, Beans. Blanched Endive and Sellery. Pickled Aſparagus, Pur<g ref="char:EOLhyphen"/>ſlain, &amp;c.</p>
+                  <p>Scorzonera, Beet-rave, Carrots, Turneeps, Parſneeps, Po<g ref="char:EOLhyphen"/>tatoes, Skirrets, Artichocks, Cucumbers, Aples, Pears, Plumes, Almond, &amp;c.</p>
+                  <p>Cyder, Perry, and Wine of Cherries, Currans, Goosberries, Rasberries, Ail of Liquoriſh, Metheglin, &amp;c.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44042:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
